@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>bg.png</file>
+        <file>bullet.png</file>
+        <file>enemy.png</file>
+        <file>Player.png</file>
+    </qresource>
+    <qresource prefix="/Sounds">
+        <file>Reza Sadeghi - Darde Eshgh.mp3</file>
+    </qresource>
+</RCC>
